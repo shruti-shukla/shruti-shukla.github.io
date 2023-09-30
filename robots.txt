@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://shruti-shukla.github.io/shruti-shukla/sitemap.xml
